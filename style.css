@@ -155,7 +155,7 @@ nav#nav-menu ul li a:hover {
 
 /* Hero Section */
 .hero {
-  background: url("http://www.aus.ac.in/wp-content/uploads/2023/09/5.png")
+  background: url("./assets/campus.png")
     center/cover no-repeat;
   height: 90vh;
   display: flex;
